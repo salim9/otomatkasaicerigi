@@ -9,11 +9,17 @@ Kasada para sıkışma durumu da kullanıcı seçimlerinden sonra devreye girmes
 Bu bilgilerin okunmasından sonra kullanıcı girişiyle, yapılan seçimler sonucunda;
 
 1- Verilerin okunması,
+
 2- Para Yükleme,
+
 3- Ürün Seçimi,
+
 4- Reset Buttonu,
+
 5- Para Sıkışması Durumu,
-6- En Az Para Üstü Verme Durumu,
+
+6- En Az Para Üstü Verme Durumu
+
 isterleri karşılanmıştır.
 
 Energia ile kodun son hali tasarlanmıştır. Devre ile ilgili bilgilere "Proje Isterleri".pdf'ten ulaşılabilirsiniz.
